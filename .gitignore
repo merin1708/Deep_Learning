@@ -1,0 +1,22 @@
+# Ignored scripts requested by user
+main.py
+try.py
+
+# Large datasets and media files
+dataset/
+MNIST/
+*.csv
+*.npz
+*.JPG
+*.jpg
+*.png
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.idea/
+.vscode/
